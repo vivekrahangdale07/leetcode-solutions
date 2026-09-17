@@ -15,9 +15,8 @@ class Pair implements Comparable<Pair> {
 class Solution {
     public String[] findRelativeRanks(int[] score) {
         PriorityQueue<Pair> pq = new PriorityQueue<>(Collections.reverseOrder());
-        for(int i = 0; i<score.length; i++){
-            pq.add(new Pair(score[i],i));
-        }
+        for(int i = 0; i<score.length; i++) pq.add(new Pair(score[i],i));
+        
         String[] ans = new String[score.length];
         int rank = 1;
 
@@ -26,22 +25,12 @@ class Solution {
             Pair current = pq.poll();
             int index = current.originalindex;
 
-            if (rank == 1) {
-                ans[index] = "Gold Medal";
-            }
-            else if (rank == 2) {
-                ans[index] = "Silver Medal";
-            }
-            else if (rank == 3) {
-                ans[index] = "Bronze Medal";
-            }
-            else {
-                ans[index] = String.valueOf(rank);
-            }
-
+            if (rank == 1)  ans[index] = "Gold Medal";   
+            else if (rank == 2) ans[index] = "Silver Medal";  
+            else if (rank == 3) ans[index] = "Bronze Medal";   
+            else ans[index] = String.valueOf(rank);
             rank++;
         }
-
         return ans;
     }
 }
