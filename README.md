@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
