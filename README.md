@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0001-two-sum) |
 | [0164-maximum-gap](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0001-two-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
