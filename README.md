@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
@@ -70,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
