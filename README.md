@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0001-two-sum) |
 | [0164-maximum-gap](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0506-relative-ranks](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0506-relative-ranks](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Bucket Sort
 |  |
 | ------- |
