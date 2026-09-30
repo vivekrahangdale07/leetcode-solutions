@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0812-largest-triangle-area](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0506-relative-ranks](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Bucket Sort
 |  |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
