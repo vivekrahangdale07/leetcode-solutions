@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0164-maximum-gap](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0219-contains-duplicate-ii](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Polygons
 |  |
@@ -129,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
