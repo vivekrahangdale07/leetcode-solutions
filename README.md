@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0812-largest-triangle-area](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0977-squares-of-a-sorted-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0506-relative-ranks](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0977-squares-of-a-sorted-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Bucket Sort
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Polygons
 |  |
 | ------- |
