@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting Sort
 |  |
 | ------- |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1991-find-the-middle-index-in-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
