@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
