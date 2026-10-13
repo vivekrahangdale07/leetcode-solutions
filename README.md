@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2090-k-radius-subarray-averages](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2090-k-radius-subarray-averages](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 ## Counting Sort
 |  |
 | ------- |
