@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
