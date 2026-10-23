@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1590-make-sum-divisible-by-p](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1672-richest-customer-wealth](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
