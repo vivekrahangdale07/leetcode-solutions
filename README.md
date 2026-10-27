@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0812-largest-triangle-area](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0812-largest-triangle-area) |
