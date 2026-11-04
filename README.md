@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Depth-First Search
 |  |
