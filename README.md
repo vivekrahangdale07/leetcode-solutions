@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2652-sum-multiples](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 <!---LeetCode Topics End-->
