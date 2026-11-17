@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2678-number-of-senior-citizens](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
