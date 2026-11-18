@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1837-sum-of-digits-in-base-k](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
