@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2678-number-of-senior-citizens](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -333,4 +335,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
