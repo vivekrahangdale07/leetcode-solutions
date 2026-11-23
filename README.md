@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1512-number-of-good-pairs](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1672-richest-customer-wealth](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1837-sum-of-digits-in-base-k](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
