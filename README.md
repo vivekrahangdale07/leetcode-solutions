@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1991-find-the-middle-index-in-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2079-watering-plants](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [2079-watering-plants](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/vivekrahangdale07/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
